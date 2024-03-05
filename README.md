@@ -3,7 +3,7 @@
 - **Name:** Lesego Shange
 - **Date:** 5/03/2024
 - **Current Role/Position:** Software Development Student
-- **Field of Interest:** Technology and Software
+- **Field of Interest:** Technology and Software development
 
 **Part 1: Self-Assessment Reflection**
 
